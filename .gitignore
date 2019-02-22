@@ -369,3 +369,5 @@ x64/Release_Test/test_extract/models/props_city/street_light01_04.wmd
 x64/Release_Test/test_extract/models/props_city/street_light01_03.wmd
 x64/Release_Test/test_extract/models/props_city/street_light01_02.wmd
 x64/Release_Test/test_extract/models/props_city/street_light01_01.wmd
+build_winx64/
+.vs/util_versioned_archive/v15/ipch/AutoPCH/7b9f3f7d45785679/UTIL_VERSIONED_ARCHIVE.ipch
