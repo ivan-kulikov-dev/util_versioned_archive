@@ -137,7 +137,6 @@ void uva::ArchiveFile::ReadFileHierarchy()
 	// New concept:
 	// Use table
 	// [fileId] = parentId
-	//!!!
 }
 
 void uva::ArchiveFile::ReadFileData(uint64_t startOffset,const uva::FileInfo &fi,std::vector<uint8_t> &data) const
