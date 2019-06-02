@@ -562,7 +562,7 @@ void uva::ArchiveFile::ExtractAll(const std::string &path) const
 		}
 		else
 		{
-			auto lpath = ustring::sub(fpath,path.length());
+			auto lpath = ustring::substr(fpath,path.length());
 			FileManager::CreateSystemPath(path,lpath.c_str());
 		}
 		if(fii.children.empty() == false)
